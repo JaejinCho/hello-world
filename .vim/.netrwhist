@@ -1,0 +1,8 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =6
+let g:netrw_dirhist_1='/export/b15/jcho/espnet_JSALT2018/egs/librispeech/asr_coldfusion/exp'
+let g:netrw_dirhist_2='/export/a11/jcho/kaldi_sre16/egs/sre10/v1/mfcc'
+let g:netrw_dirhist_3='/export/b15/jcho/espnet_JSALT2018/egs/librispeech/asr_coldfusion/exp/state2_cell2_GRU'
+let g:netrw_dirhist_4='/export/b15/jcho/espnet_JSALT2018/tools/kaldi_github/egs/wsj/s5/utils/parallel'
+let g:netrw_dirhist_5='/export/b15/jcho/espnet_JSALT2018/tools/warp-ctc/build'
+let g:netrw_dirhist_6='/export/b15/jcho/espnet_JSALT2018/egs/librispeech/asr_coldfusion/exp/coldfusion_batchsize40/results'
