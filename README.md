@@ -1,6 +1,4 @@
-# hello-world
-for practice. Yes
+# How to configure in a new machine
+Colon this repo
 
-Hi humans!
-
-I am also a human.
+Move (or copy) .vimrc and .vim to home directory
